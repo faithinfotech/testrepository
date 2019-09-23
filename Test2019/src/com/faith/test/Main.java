@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String arg[]){
 		SalesData objSalesData= new SalesData();
-		System.out.println("hiiiiii...lets start git hub and submit your project using git hub");
+		System.out.println("hiiii...lets start git hub and submit your project using git hub");
 		objSalesData.display();
 	}
 	
